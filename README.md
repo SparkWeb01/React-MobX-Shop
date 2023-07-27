@@ -1,8 +1,8 @@
 # React-MobX-Shop
 Это Frontend часть интернет магазина техники на 
-</hr>
+<hr />
 React
-</hr>
+<hr />
 MobX
-</hr>
+<hr />
 React-Router-Dom
